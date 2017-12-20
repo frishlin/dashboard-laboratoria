@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dashboard Laboratoria </title>
+    <link rel="stylesheet" href="main.css">
+      <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900" rel="stylesheet">
+    <script type = "text / javascript" src = "https://www.gstatic.com/charts/loader.js" ></script>
+    </head>
+  <body>
+    <main>
+      <section>
+        <header>
+        <h1>Dashboard < Laboratoria > </h1>
+        </header>
+      <form id= 'filter'>
+        <div class= "select">
+          <select id= 'select-sede' onchange='setGenerations(this.value);'>
+            <option value='0' selected = "selected">SELECCIONA UNA SEDE</option>
+              <optgroup label = "AREQUIPA">
+                <option value='1' data-sede = 'AQP' data-generation = '2016-2'>AREQUIPA  | Generaciòn 2016-2</option>
+                <option value='2' data-sede = 'AQP' data-generation = '2017-1'>AREQUIPA  | Generaciòn 2017-1</option>
+              </optgroup>
+              <optgroup label="CIUDAD DE MÉXICO">
+                <option value='3' data-sede = 'CDMX' data-generation='2017-1'>CDMX  | Generaciòn 2017-1</option>
+                <option value='4' data-sede = 'CDMX' data-generation='2017-2'>CDMX | Generaciòn 2017-2</option>
+              </optgroup>
+              <optgroup label="LIMA">
+                <option value='5' data-sede = 'LIM' data-generation = '2016-2'>LIMA | Generaciòn 2016-2</option>
+                <option value='6' data-sede = 'LIM' data-generation = '2017-1'>LIMA | Generaciòn 2017-1</option>
+                <option value='7' data-sede = 'LIM' data-generation = '2017-2'>LIMA | Generaciòn 2017-2</option>
+              </optgroup>
+              <optgroup label="SANTIAGO">
+                <option value='8' data-sede = 'SCL' data-generation = '2016-2'>CHILE | Generaciòn 2016-2</option>
+                <option value='9' data-sede = 'SCL' data-generation = '2017-1'>CHILE | Generaciòn 2017-1</option>
+                <option value='10'data-sede = 'SCL' data-generation = '2017-2'>CHILE  Generaciòn 2017-2</option>
+              </optgroup>
+          </select>
+        </div>
+      </form>
+        <section id = "contenedor-graficas">
+
+        </section>
+    </main>
+    <script src = "data.js"></script>
+    <script src = "app.js"></script>
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+  </body>
+</html>
