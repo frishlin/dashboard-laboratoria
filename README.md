@@ -68,12 +68,7 @@ _En ambas sedes se consideró la opción NA para que contengan los mismos datos_
   - El porcentaje que representa el dato anterior en relación al total de estudiantes.
     - Obtener el porcentaje de alumnas que obtuvieron la mínima aprobatoria con la fórmula: totalMínimoAprobatorio * 100 / totalFalseTrue
 
+```
+Todos los elementos, con excepción del selector, se crean dinámicamente
+```
 ***
-## Presentación
-
-![GitHub](assets/images/)
-
-***
-
-
-##

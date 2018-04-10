@@ -64,7 +64,7 @@ function setGenerations(valor)
   totalStudents = activeStudents + desertedStudents;
 //El porcentaje de deserción de estudiantes.--
   //Calculando porcentaje de deserción --2
-  desertionStudentsRate = desertedStudents/(desertedStudents+activeStudents)*100;//--2
+  desertionStudentsRate = desertedStudents/(totalStudents)*100;//--2
     //Calculando % y # de estudiantes que superan la meta tech & hse
     for(var i=0; i<data[sede][generation]['students'].length; i++){
       for(var j=0; j<data[sede][generation]['students'][i]['sprints'].length; j++){
