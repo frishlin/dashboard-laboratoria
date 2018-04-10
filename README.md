@@ -1,14 +1,12 @@
-# Dasboard Laboratoria
+# **Dasboard Laboratoria**
 
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Data Dasboard_
+Optimizar la data de las alumnas de Laboratoria en todas sus sedes, esto con la finalidad de que los Training Managers puedan acceder a la informaciòn de una manera fácil y rápida.
 
-***
-Este es el reto final de la unidad `Creando sitio web interactivo`. Consiste en optimizar la data de las alumnas de Laboratoria en todas sus sedes, esto con la finalidad de que los Training Managers puedan acceder a la informaciòn de una manera fácil y rápida.
+![data-dashboard](https://github.com/frishlin/dashboard-laboratoria/blob/master/assets/images/data-dashboard.png)
 
 ## Objetivo
 
-* Analizar la mayor cantidad de datos respecto al desempeño de las estudiantes y asì mejorar el desarrollo en su aprendizaje.
+* Analizar la mayor cantidad de datos respecto al desempeño de las estudiantes y así mejorar el desarrollo en su aprendizaje.
 
 * Ver los siguientes datos en una herramienta web de manera fácil y rápida:
 
@@ -41,27 +39,9 @@ Este es el reto final de la unidad `Creando sitio web interactivo`. Consiste en 
   ```
 ***
 
-## Consideraciones
-
-  I. El dashboard debera trabajarse por parejas
-
-  II. Tener una planificacion
-
-  III.  Definir el diseño
-
-  IV. Implementar el dataDashboard usando `html`, `css` y `js`
-
-  V. Desplegar el producto en GitHub Pages
-
-***
-
 ## Flujo de trabajo
 
-1. Realizamos un `fork` del siguiente repositorio
-
-![GitHub](https://github.com/Laboratoria-learning/data-dashboard)
-
-2. Analizamos la data de las estudiantes encontrando lo siguiente;
+1. Se realizó el análisis la data de las estudiantes encontrando lo siguiente;
 
   * La sede `Arequipa` se conforma de 2 generaciones: 2016-2 y 2017-1, con 4 y 3 sprint, respectivamente.
   * La sede `CDMX` se conforma de 2 generaciones: 2017-1 y 2017-2, con 3 y 2 sprints, respectivamente.
@@ -72,7 +52,7 @@ Este es el reto final de la unidad `Creando sitio web interactivo`. Consiste en 
 -Diferencias sprints Arequipa 2016-2, 4 sprints | Lima sólo 2.
 -En la generación 2017-1, Arequipa tuvo 3 sprints y Lima 4.
 ```
-_Se tomaron en cuenta en ambas sedes con la opción NA para que contengan los mismos datos_
+_En ambas sedes se consideró la opción NA para que contengan los mismos datos_
 
   3.- Analisis de la información que requiere el cliente;
 
