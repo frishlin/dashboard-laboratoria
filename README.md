@@ -72,3 +72,6 @@ _En ambas sedes se consideró la opción NA para que contengan los mismos datos_
 Todos los elementos, con excepción del selector, se crean dinámicamente
 ```
 ***
+## Herramientas utilizadas
+* HTML5, CSS3, API de GOOGLE para generar gráficas
+* Elementos creados dinámicamente con DOM
