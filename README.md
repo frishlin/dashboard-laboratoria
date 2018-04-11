@@ -1,4 +1,4 @@
-# **Dasboard Laboratoria**
+# **Dashboard Laboratoria**
 
 https://frishlin.github.io/dashboard-laboratoria/
 
