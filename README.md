@@ -10,7 +10,7 @@ Optimizar la data de las alumnas de Laboratoria en todas sus sedes, esto con la 
 
 * Analizar la mayor cantidad de datos respecto al desempeño de las estudiantes y así mejorar el desarrollo en su aprendizaje.
 
-* Ver los siguientes datos en una herramienta web de manera fácil y rápida:
+* Que en una sola pantalla se puedan mostrar todos los datos que se solicitan a continuación, de una forma simple y rápida:
 
   - `Total` de estudiantes presentes por `sede` y por `generación`
 
