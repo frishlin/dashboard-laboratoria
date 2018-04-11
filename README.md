@@ -4,6 +4,8 @@ https://frishlin.github.io/dashboard-laboratoria/
 
 Optimizar la data de las alumnas de Laboratoria en todas sus sedes, esto con la finalidad de que los Training Managers puedan acceder a la informaciòn de una manera fácil y rápida.
 
+Este proyecto está más enfocado a la funcionalidad y a cumplir con lo solicitado por el cliente en cuanto a la visualización de los datos y su respectiva gráfica.
+
 ![data-dashboard](https://github.com/frishlin/dashboard-laboratoria/blob/master/assets/images/data-dashboard.png)
 
 ## Objetivo
