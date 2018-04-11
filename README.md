@@ -6,7 +6,7 @@ Optimizar la data de las alumnas de Laboratoria en todas sus sedes, esto con la 
 
 Este proyecto está más enfocado a la funcionalidad y a cumplir con lo solicitado por el cliente en cuanto a la visualización de los datos y su respectiva gráfica.
 
-![data-dashboard](https://github.com/frishlin/dashboard-laboratoria/blob/master/assets/images/data-dashboard.png)
+![data-dashboard](https://user-images.githubusercontent.com/32878468/38595094-562678e8-3d0f-11e8-8200-e71383bc93b6.png)
 
 ## Objetivo
 
